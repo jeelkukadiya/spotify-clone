@@ -1,0 +1,326 @@
+[
+  {
+    "file": "Ed Sheeran - Sapphire.mp3",
+    "name": "Sapphire",
+    "artist": "Ed Sheeran",
+    "cover": "https://i.scdn.co/image/ab67616d00001e026fbb60d6a7e03ccb940a518e",
+    "playlist": "",
+    "url": "songs/Ed Sheeran - Sapphire.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "Kendrick Lamar - All The Stars.mp3",
+    "name": "All The Stars",
+    "artist": "Kendrick Lamar",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "playlist": "",
+    "url": "songs/Kendrick Lamar - All The Stars.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "The Weeknd - Blinding Lights.mp3",
+    "name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "cover": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+    "playlist": "",
+    "url": "songs/The Weeknd - Blinding Lights.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "The Weeknd - Die For You.mp3",
+    "name": "Die For You",
+    "artist": "The Weeknd",
+    "cover": "https://i.scdn.co/image/ab67616d00001e024718e2b124f79258be7bc452",
+    "playlist": "",
+    "url": "songs/The Weeknd - Die For You.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "The Weeknd & Ariana Grande - Save Your Tears.mp3",
+    "name": "Save Your Tears",
+    "artist": "The Weeknd & Ariana Grande",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf",
+    "playlist": "",
+    "url": "songs/The Weeknd & Ariana Grande - Save Your Tears.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "Arctic monkeys - I wanna be yours.mp3",
+    "name": "I Wanna Be Yours",
+    "artist": "Arctic Monkeys",
+    "cover": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
+    "playlist": "",
+    "url": "songs/Arctic monkeys - I wanna be yours.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "Coldplay - Hymn For The Weekend.mp3",
+    "name": "Hymn For The Weekend",
+    "artist": "Coldplay",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273ac08ece7ad90165ac7d532c4",
+    "playlist": "",
+    "url": "songs/Coldplay - Hymn For The Weekend.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "Glass Animals - Heat Waves.mp3",
+    "name": "Heat Waves",
+    "artist": "Glass Animals",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
+    "playlist": "",
+    "url": "songs/Glass Animals - Heat Waves.mp3",
+    "isTrending": true
+  },
+  {
+    "file": "Post Malone, Swae Lee - Sunflower.mp3",
+    "name": "Sunflower",
+    "artist": "Post Malone, Swae Lee",
+    "cover": "https://i.scdn.co/image/ab67616d00004851e2e352d89826aef6dbd5ff8f",
+    "playlist": "",
+    "url": "songs/Post Malone, Swae Lee - Sunflower.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Billie Eilish - BIRDS OF A FEATHER.mp3",
+    "name": "BIRDS OF A FEATHER",
+    "artist": "Billie Eilish",
+    "cover": "https://i.scdn.co/image/ab67616d0000485171d62ea7ea8a5be92d3c1f62",
+    "playlist": "pop",
+    "url": "songs/Billie Eilish - BIRDS OF A FEATHER.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Alex Warren - Ordinary.mp3",
+    "name": "Ordinary",
+    "artist": "Alex Warren",
+    "cover": "https://i.scdn.co/image/ab67616d00004851445583cf76246ed491bb10cf",
+    "playlist": "pop",
+    "url": "songs/Alex Warren - Ordinary.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Maroon 5 - Maps.mp3",
+    "name": "Maps",
+    "artist": "Maroon 5",
+    "cover": "https://i.scdn.co/image/ab67616d0000485137677af5b4f23fe9dc8a3c04",
+    "playlist": "pop",
+    "url": "songs/Maroon 5 - Maps.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Addison Rae - New York.mp3",
+    "name": "New York",
+    "artist": "Addison Rae",
+    "cover": "https://i.scdn.co/image/ab67616d00004851ec92248aecf970a5e6eae916",
+    "playlist": "pop",
+    "url": "songs/Addison Rae - New York.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Flo Rida - My House.mp3",
+    "name": "My House",
+    "artist": "Flo Rida",
+    "cover": "https://i.scdn.co/image/ab67616d000048517947bf3e8af32378de181b41",
+    "playlist": "pop",
+    "url": "songs/Flo Rida - My House.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Justin Bieber - Beauty And A Beat.mp3",
+    "name": "Beauty And A Beat",
+    "artist": "Justin Bieber",
+    "cover": "https://i.scdn.co/image/ab67616d00004851f1d02a6cec967f8b6b78f76e",
+    "playlist": "pop",
+    "url": "songs/Justin Bieber - Beauty And A Beat.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "David Guetta - I'm Good (Blue).mp3",
+    "name": "I'm Good (Blue)",
+    "artist": "David Guetta",
+    "cover": "https://i.scdn.co/image/ab67616d00004851933c036cd61cd40d3f17a9c4",
+    "playlist": "pop",
+    "url": "songs/David Guetta - I'm Good (Blue).mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Calvin Harris ft. John Newman - Blame.mp3",
+    "name": "Blame",
+    "artist": "Calvin Harris ft. John Newman",
+    "cover": "https://i.scdn.co/image/ab67616d000048518fba5806a323efd272677c4d",
+    "playlist": "pop",
+    "url": "songs/Calvin Harris ft. John Newman - Blame.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "DJ Snake - Let Me Love You.mp3",
+    "name": "Let Me Love You",
+    "artist": "DJ Snake",
+    "cover": "https://i.scdn.co/image/ab67616d00004851212d776c31027c511f0ee3bc",
+    "playlist": "pop",
+    "url": "songs/DJ Snake - Let Me Love You.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Sabrina Carpenter - Manchild.mp3",
+    "name": "Manchild",
+    "artist": "Sabrina Carpenter",
+    "cover": "https://i.scdn.co/image/ab67616d00004851062c6573009fdebd43de443b",
+    "playlist": "pop",
+    "url": "songs/Sabrina Carpenter - Manchild.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Pritam - Bulleya.mp3",
+    "name": "Bulleya",
+    "artist": "Pritam",
+    "cover": "https://i.scdn.co/image/ab67616d00004851bca30634e6cad10b97c03d21",
+    "playlist": "rock",
+    "url": "songs/Pritam - Bulleya.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Mohit Chauhan - Saadda Haq.mp3",
+    "name": "Saadda Haq",
+    "artist": "Mohit Chauhan",
+    "cover": "https://i.scdn.co/image/ab67616d0000485154e544672baa16145d67612b",
+    "playlist": "rock",
+    "url": "songs/Mohit Chauhan - Saadda Haq.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Pritam - Zara Sa (Power Ballad).mp3",
+    "name": "Zara Sa (Power Ballad)",
+    "artist": "Pritam",
+    "cover": "https://i.scdn.co/image/ab67616d00004851727d531901c07a499498c544",
+    "playlist": "rock",
+    "url": "songs/Pritam - Zara Sa (Power Ballad).mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Farhan Akhtar - Rock On.mp3",
+    "name": "Rock On",
+    "artist": "Farhan Akhtar",
+    "cover": "https://i.scdn.co/image/ab67616d0000485119bf9ebc57d912cda1f83de8",
+    "playlist": "rock",
+    "url": "songs/Farhan Akhtar - Rock On.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Palak Muchhal - Teri Meri Kahaani.mp3",
+    "name": "Teri Meri Kahaani",
+    "artist": "Palak Muchhal",
+    "cover": "https://i.scdn.co/image/ab67616d00004851d582f7f8d2c48c332435114b",
+    "playlist": "rock",
+    "url": "songs/Palak Muchhal - Teri Meri Kahaani.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Sachin-Jigar - Jee Karda (Rock Version).mp3",
+    "name": "Jee Karda (Rock Version)",
+    "artist": "Sachin-Jigar",
+    "cover": "https://i.scdn.co/image/ab67616d000048514c74beed966d2f38aa298c57",
+    "playlist": "rock",
+    "url": "songs/Sachin-Jigar - Jee Karda (Rock Version).mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Himesh Reshammiya - Bewajah.mp3",
+    "name": "Bewajah",
+    "artist": "Himesh Reshammiya",
+    "cover": "https://i.scdn.co/image/ab67616d00004851711c1639b4bc0f9978ae77a6",
+    "playlist": "rock",
+    "url": "songs/Himesh Reshammiya - Bewajah.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Amit Trivedi - Ud-daa Punjab.mp3",
+    "name": "Ud-daa Punjab",
+    "artist": "Amit Trivedi",
+    "cover": "https://i.scdn.co/image/ab67616d00004851ae6d60a0e2e11cf61fa5aa57",
+    "playlist": "rock",
+    "url": "songs/Amit Trivedi - Ud-daa Punjab.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Mithoon - Allah De Bande (From Gumraah).mp3",
+    "name": "Allah De Bande (From Gumraah)",
+    "artist": "Mithoon",
+    "cover": "https://i.scdn.co/image/ab67616d00004851e0523309b4a8121a69e88c6d",
+    "playlist": "rock",
+    "url": "songs/Mithoon - Allah De Bande (From Gumraah).mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Arijit Singh - Milne Hai Mujhse Aayi.mp3",
+    "name": "Milne Hai Mujhse Aayi",
+    "artist": "Arijit Singh",
+    "cover": "https://i.scdn.co/image/ab67616d000048516404721c1943d5069f0805f3",
+    "playlist": "rock",
+    "url": "songs/Arijit Singh - Milne Hai Mujhse Aayi.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Raghav Chaitanya - Hua Main.mp3",
+    "name": "Hua Main",
+    "artist": "Raghav Chaitanya",
+    "cover": "https://i.scdn.co/image/ab67616d000048515f3ede47954a93aa03efe5f9",
+    "playlist": "rock",
+    "url": "songs/Raghav Chaitanya - Hua Main.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Aram Khachaturian - Masquerade Suite Waltz.mp3",
+    "name": "Masquerade Suite Waltz",
+    "artist": "Aram Khachaturian",
+    "cover": "https://i.scdn.co/image/ab67616d000048518231fcd4320c2bf61cdb5d88",
+    "playlist": "classic",
+    "url": "songs/Aram Khachaturian - Masquerade Suite Waltz.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Erik Satie - Gymnopédie No.1.mp3",
+    "name": "Gymnopédie No.1",
+    "artist": "Erik Satie",
+    "cover": "https://i.scdn.co/image/ab67616d000048515fde705de436ab2751d0c30e",
+    "playlist": "classic",
+    "url": "songs/Erik Satie - Gymnopédie No.1.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Giuseppe Tartini - Violin Sonata in G Minor Devil's Trill III. Allegro assai.mp3",
+    "name": "Violin Sonata in G Minor Devil's Trill III. Allegro assai",
+    "artist": "Giuseppe Tartini",
+    "cover": "https://i.scdn.co/image/ab67616d00004851774ab086aaef3862afdb408d",
+    "playlist": "classic",
+    "url": "songs/Giuseppe Tartini - Violin Sonata in G Minor Devil's Trill III. Allegro assai.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Sergei Prokofiev - Romeo and Juliet Suite No. 2 Montague and Capulets (Excerpt) Op. 64ter.mp3",
+    "name": "Romeo and Juliet Suite No. 2 Montague and Capulets (Excerpt) Op. 64ter",
+    "artist": "Sergei Prokofiev",
+    "cover": "https://i.scdn.co/image/ab67616d00004851d01f93b35acb897da4b697e7",
+    "playlist": "classic",
+    "url": "songs/Sergei Prokofiev - Romeo and Juliet Suite No. 2 Montague and Capulets (Excerpt) Op. 64ter.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Wolfgang Amadeus Mozart - Requiem K.626 Lacrimosa.mp3",
+    "name": "Requiem K.626 Lacrimosa",
+    "artist": "Wolfgang Amadeus Mozart",
+    "cover": "https://i.scdn.co/image/ab67616d00004851b72819fe4791a5a72b9d0152",
+    "playlist": "classic",
+    "url": "songs/Wolfgang Amadeus Mozart - Requiem K.626 Lacrimosa.mp3",
+    "isTrending": false
+  },
+  {
+    "file": "Pyotr Ilyich Tchaikovsky - Swan Lake Op.20 Act III Spanish Dance.mp3",
+    "name": "Swan Lake Op.20 Act III Spanish Dance",
+    "artist": "Pyotr Ilyich Tchaikovsky",
+    "cover": "https://i.scdn.co/image/ab67616d0000485133c0a204f83265f8a8629137",
+    "playlist": "classic",
+    "url": "songs/Pyotr Ilyich Tchaikovsky - Swan Lake Op.20 Act III Spanish Dance.mp3",
+    "isTrending": false
+  }
+]

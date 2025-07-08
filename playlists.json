@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pop",
+    "name": "Summer Pop Mix",
+    "cover": "https://seed-mix-image.spotifycdn.com/v6/img/desc/Summer%20Pop/en/default",
+    "description": "Best of Pop"
+  },
+  {
+    "id": "rock",
+    "name": "Bollywood Rock",
+    "cover": "https://i.scdn.co/image/ab67706f000000022285b7dbbc14392e9b2568ef",
+    "description": "Listen to what Bollywood is rocking to."
+  },
+  {
+    "id": "classic",
+    "name": "Classic Mix",
+    "cover": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c862deb34a3feecb9ba2c12fb",
+    "description": "Timeless classics for everyone."
+  }
+] 
