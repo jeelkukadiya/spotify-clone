@@ -1,4 +1,4 @@
-# Spotify Clone
+# Spotify Clone (https://spotifymaster.netlify.app/)
 
 A web-based clone of Spotify, focused on delivering a familiar music streaming interface and core playback functionality, built using JavaScript, HTML, and CSS.
 
